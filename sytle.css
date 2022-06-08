@@ -1,0 +1,27 @@
+
+
+.div{
+    background-color: rgb(228, 222, 222);
+    margin-left: 80px;
+    margin-right: 80px;
+    }
+
+table, th, td {
+               border-collapse: separate;
+              }
+
+th, td {
+
+        background-color: #96D4D4;
+        /* margin-left: 80px;
+        margin-right: 80px; */
+        }
+
+table {
+    
+    width: 89%;
+    margin-left: 80px;
+    margin-right: 80px;
+
+  
+    }
